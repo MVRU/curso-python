@@ -7,7 +7,11 @@
 <p>📺 Únete a <a href="https://twitch.tv/midudev" rel="me">mis clases en vivo</a> todos los miércoles y aprende desde cero con ejercicios prácticos y explicaciones claras.</p>
 </div>
 
+<br />
+
 ---
+
+<br />
 
 ## 🌟 ¿Por qué unirte?
 - **Clases semanales:** todos los miércoles en vivo.
@@ -16,7 +20,11 @@
 - **Comunidad activa:** comparte dudas y avances con otros estudiantes.
 - **Código abierto:** todo el material está disponible en este repositorio.
 
+<br />
+
 ---
+
+<br />
 
 ## 🕒 Horario por países
 Consulta tu horario local y no te pierdas ninguna clase:  
@@ -30,7 +38,11 @@ Consulta tu horario local y no te pierdas ninguna clase:
 | 12H | 🇨🇴 Colombia, 🇵🇪 Perú, 🇪🇨 Ecuador, 🇨🇺 Cuba, 🇵🇦 Panamá |
 | 11H | 🇲🇽 México, 🇨🇷 Costa Rica, 🇳🇮 Nicaragua, 🇸🇻 El Salvador, 🇭🇳 Honduras |
 
+<br />
+
 ---
+
+<br />
 
 ## 📚 Clases Grabadas
 Si te pierdes una clase en vivo, no te preocupes. Todo el contenido estará disponible aquí:
@@ -42,7 +54,11 @@ Si te pierdes una clase en vivo, no te preocupes. Todo el contenido estará disp
 
 >  📌 **Próximamente:** más clases y ejercicios actualizados semanalmente.
 
+<br />
+
 ---
+
+<br />
 
 ## 🚀 ¿Cómo empezar?
 
@@ -55,7 +71,11 @@ Si te pierdes una clase en vivo, no te preocupes. Todo el contenido estará disp
 3. **Únete al directo:**
    Sigue [este enlace](https://twitch.tv/midudev) y activa las notificaciones para no perderte nada.
 
+<br />
+
 ---
+
+<br />
 
 ## 💬 Sugerencias y Feedback
 ¡Tu opinión importa! Si tienes sugerencias o detectas errores en el contenido:
@@ -65,7 +85,11 @@ Si te pierdes una clase en vivo, no te preocupes. Todo el contenido estará disp
 
 >  ¡Hagamos crecer esta comunidad juntos!
 
+<br />
+
 ---
+
+<br />
 
 ## 🌐 Sígueme en mis otras Redes Sociales
 Conecta conmigo para más contenido de programación:
@@ -79,6 +103,8 @@ Conecta conmigo para más contenido de programación:
 <br />
 
 ---
+
+<br />
 
 <div align="center">
 <h3>¿Listo/a para dominar Python? ¡Nos vemos en clase! 🎓🐍</h3>
